@@ -1,0 +1,50 @@
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+    padding: 50px;
+}
+
+
+.maindiv {
+    float: left;
+    width: 30.33%;
+    padding: 50px;
+    
+}
+
+.maindiv img {
+    height: 30%;
+    width: 300%;
+}
+
+#acheivmentID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie head i {
+    float: right;
+}
+
+.movie_text span {
+    color: aquamarine;
+}
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+#xxx {
+    color: #7FB9BC;
+}
